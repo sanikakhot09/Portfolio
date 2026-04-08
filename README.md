@@ -1,4 +1,4 @@
 # Portfolio
 This my Personal Portfolio
 <br>
-Author - Sanika Khot.
+Author - Sanika Vishnu Khot.
